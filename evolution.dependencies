@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "device_google_zuma",
+    "target_path": "device/google/zuma"
+  },
+  {
+    "repository": "vendor_google_akita",
+    "target_path": "vendor/google/akita"
+  },
+  {
+    "repository": "LineageOS/android_device_google_akita-kernels",
+    "target_path": "device/google/akita-kernels",
+    "remote": "github-non-los",
+    "branch": "lineage-23.2"
+  }
+]
